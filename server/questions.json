@@ -1,0 +1,343 @@
+[
+    {
+        "id": 1,
+        "question": "3 person playing memory card game, with a 20  total cards of 10 pairs, Person A said that he matched 10 pairs in a row from the start, then Person B said that he matched 9 pairs in a row from the start,then Person C said that he matched 8 pairs in a row from the start, 1 person is lying,who is it?",
+        "options": {
+            "a": "A is Lying",
+            "b": "B is Lying",
+            "c": "C is Lying",
+            "d": "No One is Lying"
+        },
+        "answer": "b"
+    },
+    {
+        "id": 2,
+        "question": "I was riding a Double-Deckered bus and stayed at the upper level, then the tourist guide told me that the lower level has 25 tourist,and the upper level has 40% as many tourist as the lower level,how many people in the bus? ",
+        "options": {
+            "a": "35",
+            "b": "37",
+            "c": "32",
+            "d": "30"
+        },
+        "answer": "b"
+    },
+    {
+        "id": 3,
+        "question": "if yesterday's day after tomorrow is Sunday, what day is tomorrow's day before yesterday? ",
+        "options": {
+            "a": "Friday",
+            "b": "Saturday",
+            "c": "Sunday",
+            "d": "Monday"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 4,
+        "question": "My father said that long time ago his age is 2 times of his wife, then a year later her age is two-thirds of my fathers, if this year my father is 25,how old is my mother?",
+        "options": {
+            "a": "15",
+            "b": "18",
+            "c": "24",
+            "d": "20"
+        },
+        "answer": "c"
+    },
+    {
+        "id": 5,
+        "question": "Which word in the dictionary is spelled incorrectly?",
+        "options": {
+            "a": "Unabashed",
+            "b": "Nonplussed",
+            "c": "Lieutenant",
+            "d": "Incorrectly"
+        },
+        "answer": "d"
+    },
+    {
+        "id": 6,
+        "question": "How many of each species did Moses take on the ark with him?",
+        "options": {
+            "a": "Two",
+            "b": "One",
+            "c": "None",
+            "d": "five"
+        },
+        "answer": "c"
+    },
+    {
+        "id": 7,
+        "question": "if you have a basket with 5 apples,and you divide the apples equally with 5 childrens,how many apples are left in the basket?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "0",
+            "d": "3"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 8,
+        "question": "Mary’s father has four daughters. The names of the first three daughters are April, May, and June. What is the name of the fourth daughter?",
+        "options": {
+            "a": "July",
+            "b": "March",
+            "c": "Mary",
+            "d": "Anna"
+        },
+        "answer": "c"
+    },
+    {
+        "id": 9,
+        "question": "A bottle and a cork together cost $1.10. The bottle costs $1.00 more than the cork. How much does the cork cost?",
+        "options": {
+            "a": "0.05$",
+            "b": "0.20$",
+            "c": "0.10$",
+            "d": "0.15$"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 10,
+        "question": "_ is 1000 times _ _, what is _?",
+        "options": {
+            "a": "D",
+            "b": "M",
+            "c": "C",
+            "d": "F"
+        },
+        "answer": "b"
+    },
+    {
+        "id": 11,
+        "question": "Three boys are talking about how many sweets they have, A said that B has the most candies, B said that if C gives him 1 more candy he'd have twice as many as A does,while C said that if B gives him 2 candies they'd all have the same amount of candies...how many candies are there in total?",
+        "options": {
+            "a": "9",
+            "b": "10",
+            "c": "11",
+            "d": "12"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 12,
+        "question": "Under certain conditions, both A and B equations are true, A(8 - 6 = 2), B(8 + 6 = 2), while C is (7 + 6 = ?), what is ?",
+        "options": {
+            "a": "4",
+            "b": "3",
+            "c": "2",
+            "d": "1"
+        },
+        "answer": "d"
+    },
+    {
+        "id": 13,
+        "question": "The first letter of the alphabet is A, and the letter B comes after letter A, what you need to worry is the last one, what is the last letter of the alphabet?",
+        "options": {
+            "a": "T",
+            "b": "W",
+            "c": "Z",
+            "d": "S"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 14,
+        "question": "There are a brother and sister,the brother said that if he gives 2 of his age to the sister she'd be twice his age,while the sister said to him to give her one more and she becomes 3 times of his age, how much is the total age of the brother and sister combined?",
+        "options": {
+            "a": "6",
+            "b": "10",
+            "c": "12",
+            "d": "15"
+        },
+        "answer": "c"
+    },
+    {
+        "id": 15,
+        "question": "imagine a jar that is filled with a germ, in 1 minute a germ multiply into 2 germs, and the jar will be fully filled in an hour, how many minutes it takes when it start with 2 germs?" ,
+        "options": {
+            "a": "59",
+            "b": "60",
+            "c": "30",
+            "d": "15"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 16,
+        "question": "a sick person is prescribed with 10 identical pills with different concentration, he must take it once a day...the sick person decide to number the pills in order to not forget which pills is first, how many pills he must numbered at least to keep track with the dose?" ,
+        "options": {
+            "a": "7",
+            "b": "8",
+            "c": "9",
+            "d": "10"
+        },
+        "answer": "b"
+    },
+    {
+        "id": 17,
+        "question": "five cats can catch five mouses in five minutes, with that in mind how many cats does it takes to catch 100 mice in 100 minutes?" ,
+        "options": {
+            "a": "20",
+            "b": "15",
+            "c": "10",
+            "d": "5"
+        },
+        "answer": "d"
+    },
+    {
+        "id": 18,
+        "question": "A train with a length of 100m takes 30 seconds to travel over a 40m bridge, assuming the train speed is constant, how many kilometres per hour it's travelling at?" ,
+        "options": {
+            "a": "15 km/h",
+            "b": "60 km/h",
+            "c": "30 km/h",
+            "d": "120 km/h"
+        },
+        "answer": "b"
+    },
+    {
+        "id": 19,
+        "question": "these string of numbers follows a certain rule, what's the missing number? (12311_1213)" ,
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "a"
+    },
+    {
+        "id": 20,
+        "question": "The difference between my mom and dad age is the same as my age, my big sister is twice my age, in which case her age is 1/3 my mom age,in 5 years,i'll be my sister's age, how old am i? " ,
+        "options": {
+            "a": "3",
+            "b": "5",
+            "c": "10",
+            "d": "8"
+        },
+        "answer": "b"
+    },
+    {
+        "id": 21,
+        "question": "what happens when past, present, and future walks into a bar?" ,
+        "options": {
+            "a": "it'll be pretty tense",
+            "b": "they'll pull out a black hole",
+            "c": "it'll be a timeful over there",
+            "d": "they'll walked in normally"
+        },
+        "Answer": "a"
+    },
+    {
+        "id": 22,
+        "question": "2 goldfish in a tank, one turns to another and said?" ,
+        "options": {
+            "a": "fire in the hole",
+            "b": "blububublubblub",
+            "c": "splash",
+            "d": "so..how do we drive this thing?"
+        },
+        "Answer": "d"
+    },
+    {
+        "id": 22,
+        "question": "2 soldiers in a tank, one turns to another and said?" ,
+        "options": {
+            "a": "fire in the hole",
+            "b": "blububublubblub",
+            "c": "splash",
+            "d": "so..how do we drive this thing?"
+        },
+        "Answer": "b"
+    },
+    {
+        "id": 23,
+        "question": "How many mexicans would you need to change a lightbulb?" ,
+        "options": {
+            "a": "unos",
+            "b": "one",
+            "c": "juan",
+            "d": "satu"
+        },
+        "Answer": "c"
+    },
+    {
+        "id": 24,
+        "question": "How do you make a Holy Water?" ,
+        "options": {
+            "a": "By praying to it",
+            "b": "Put it into a bottle labeled Holy Water",
+            "c": "Using a Magic Stone",
+            "d": "Boil The Hell out of it"
+        },
+        "Answer": "d"
+    },
+    {
+        "id": 25,
+        "question": "Why is it hard to teach puns to kleptomaniacs?" ,
+        "options": {
+            "a": "Because they're stupid",
+            "b": "Because they don't want to",
+            "c": "Because they takes things literally",
+            "d": "Because it's not their taste"
+        },
+        "Answer": "d"
+    },
+    {
+        "id": 26,
+        "question": "What do you called a soldier that survives a war that includes the usage of mustard gas?" ,
+        "options": {
+            "a": "A Seasoned Veteran",
+            "b": "A Warlord",
+            "c": "A Hero",
+            "d": "A Soldier"
+        },
+        "Answer": "a"
+    },
+    {
+        "id": 27,
+        "question": "What is Atheism?" ,
+        "options": {
+            "a": "A Religion",
+            "b": "A Term",
+            "c": "A Non-Prophet organisation",
+            "d": "A Word"
+        },
+        "Answer": "c"
+    },
+    {
+        "id": 28,
+        "question": "What is the term for securities in Samsung Store?" ,
+        "options": {
+            "a": "Security",
+            "b": "The Guardians of the galaxy",
+            "c": "Samsung Genious",
+            "d": "A Seller"
+        },
+        "Answer": "b"
+    },
+    {
+        "id": 29,
+        "question": "what kind of puns is the worst?" ,
+        "options": {
+            "a": "Cheese",
+            "b": "Sausage",
+            "c": "Milk",
+            "d": "Flour"
+        },
+        "Answer": "b"
+    },
+    {
+        "id": 30,
+        "question": "Why do people need to learn sign language?" ,
+        "options": {
+            "a": "Because it'll be handy in the future",
+            "b": "Because it's cool",
+            "c": "Because it's all right",
+            "d": "Because it's counted as skills"
+        },
+        "Answer": ""
+    }
+]
